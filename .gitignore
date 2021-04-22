@@ -1,0 +1,12 @@
+# Ignore these files when committing to git
+
+**/__pycache__
+**/.ipynb_checkpoints
+**.DS_Store
+**.pyc
+**logs/
+**.pytest_cache
+**pyodide_test**
+moog_games.egg-info**
+build**
+# dist/**
